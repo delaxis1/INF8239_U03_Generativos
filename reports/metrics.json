@@ -1,0 +1,31 @@
+{
+  "seed": 42,
+  "train": 54000,
+  "validation": 6000,
+  "test": 10000,
+  "split_sha256": "e1d0864b7fb496c54c49591955b65c82205638333445478817bc477a642b00e0",
+  "chosen": "vae_b1",
+  "python": "3.12.12",
+  "tensorflow": "2.21.0",
+  "system": "Windows-11-10.0.26300-SP0",
+  "gpu_visible": [],
+  "total_seconds": 21.81560480000917,
+  "peak_working_set_mib": 1180.0234375,
+  "diversity": {
+    "n": 256,
+    "generated_pairwise_mse": 0.06725838516876495,
+    "real_validation_pairwise_mse": 0.17194576115784246,
+    "generated_nn_mse_median": 0.008960354141891003,
+    "validation_nn_mse_median": 0.014498983044177294,
+    "threshold_validation_nn_p05": 0.0046417469857260585,
+    "fraction_generated_below_threshold": 0.08984375,
+    "nearest_reference_count": 54000,
+    "warning": "Distancias en p\u00edxeles: no FID, ni test formal de privacidad o prueba de memorizaci\u00f3n."
+  },
+  "latent_ae": 16,
+  "latent_vae": 2,
+  "epochs_ae": 6,
+  "epochs_vae": 8,
+  "batch_size": 256,
+  "test_evaluated_after_selection": true
+}

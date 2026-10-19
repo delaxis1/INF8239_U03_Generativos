@@ -1,0 +1,7 @@
+{
+  "chosen": "vae_b1",
+  "criterion": "menor BCE sumada + KL (peso com\u00fan 1) en validaci\u00f3n; checkpoint por misma regla",
+  "seed": 42,
+  "time_unix": 1792446740.6250536,
+  "before_test": true
+}

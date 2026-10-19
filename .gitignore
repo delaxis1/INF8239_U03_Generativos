@@ -1,7 +1,9 @@
 .venv/
 __pycache__/
 .pytest_cache/
+.ruff_cache/
 *.py[cod]
-models/*.keras
-reports/*.png
-reports/*.json
+.ipynb_checkpoints/
+data/raw/
+.env
+reports/pdf_review*

@@ -1,0 +1,16 @@
+{
+  "tests_passed": 13,
+  "notebook_code_cells": 7,
+  "notebook_errors": 0,
+  "split_disjoint": true,
+  "panel_cases": 16,
+  "generated_samples": 256,
+  "class_metrics_reconciled": true,
+  "streamlit_smoke": [
+    "decoder carga",
+    "coordenada modificada",
+    "16 muestras generadas"
+  ],
+  "pdf_pages": 4,
+  "pdf_visual_review": "4 páginas revisadas; panel y tabla de errores revisados tras ajuste final"
+}
