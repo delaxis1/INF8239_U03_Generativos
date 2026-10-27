@@ -7,6 +7,8 @@ Autor del proyecto base: Edwin Ramón José Nolasco (LAB10).
 - Continuar con el Ejercicio 06 después del recomendador.
 - Usar el ZIP oficial del docente y proyectos anteriores como contexto.
 - Mantener repositorio privado y el diseño del último informe de CNN/Ejercicio05.
+  *(El repositorio se publicó después, el 26 de octubre de 2026, para que el enlace del
+  informe abra sin invitación. La instrucción original se conserva tal como se dio.)*
 
 ## Participación y verificaciones
 Codex revisó el mandato y aclaraciones, implementó evaluación y documentos y ejecutó los comandos en el equipo. La revisión personal del informe y la defensa corresponden al estudiante; no se afirma que ya ocurrieron. Los resultados provienen de ejecución real, no de cifras inventadas.
